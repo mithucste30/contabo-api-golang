@@ -1,6 +1,6 @@
 # Contabo Go SDK
 
-Official Go SDK for the [Contabo API](https://api.contabo.com/). This SDK provides a comprehensive and easy-to-use interface for managing Contabo cloud resources including compute instances, object storage, private networks, DNS, and more.
+Go SDK for the [Contabo API](https://api.contabo.com/). This SDK provides a comprehensive and easy-to-use interface for managing Contabo cloud resources including compute instances, object storage, private networks, DNS, and more.
 
 ## Features
 
@@ -21,7 +21,7 @@ Official Go SDK for the [Contabo API](https://api.contabo.com/). This SDK provid
 ## Installation
 
 ```bash
-go get github.com/mithucste30/contabo-sdk-golang
+go get github.com/mithucste30/contabo-api-golang
 ```
 
 ## Quick Start
@@ -45,7 +45,7 @@ import (
 	"fmt"
 	"log"
 
-	contabo "github.com/mithucste30/contabo-sdk-golang"
+	contabo "github.com/mithucste30/contabo-api-golang"
 )
 
 func main() {

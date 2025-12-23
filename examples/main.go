@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	contabo "github.com/mithucste30/contabo-sdk-golang"
-	"github.com/mithucste30/contabo-sdk-golang/compute"
+	contabo "github.com/mithucste30/contabo-api-golang"
+	"github.com/mithucste30/contabo-api-golang/compute"
 )
 
 func main() {

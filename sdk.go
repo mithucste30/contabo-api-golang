@@ -1,13 +1,13 @@
 package contabo
 
 import (
-	"github.com/mithucste30/contabo-sdk-golang/compute"
-	"github.com/mithucste30/contabo-sdk-golang/dns"
-	"github.com/mithucste30/contabo-sdk-golang/network"
-	"github.com/mithucste30/contabo-sdk-golang/secret"
-	"github.com/mithucste30/contabo-sdk-golang/storage"
-	"github.com/mithucste30/contabo-sdk-golang/tag"
-	"github.com/mithucste30/contabo-sdk-golang/user"
+	"github.com/mithucste30/contabo-api-golang/compute"
+	"github.com/mithucste30/contabo-api-golang/dns"
+	"github.com/mithucste30/contabo-api-golang/network"
+	"github.com/mithucste30/contabo-api-golang/secret"
+	"github.com/mithucste30/contabo-api-golang/storage"
+	"github.com/mithucste30/contabo-api-golang/tag"
+	"github.com/mithucste30/contabo-api-golang/user"
 )
 
 // SDK provides access to all Contabo API services
