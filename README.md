@@ -398,8 +398,12 @@ go run main.go
 ## API Documentation
 
 For detailed API documentation, refer to:
-- [Contabo API Documentation](https://api.contabo.com/)
-- [OpenAPI Specification](https://api.contabo.com/api-docs)
+- [Contabo API Documentation](https://api.contabo.com/) - Interactive API reference with OpenAPI spec download
+- [Contabo Product Documentation](https://docs.contabo.com/) - Product usage guides
+- [Customer Control Panel](https://my.contabo.com/api/details) - Get your API credentials
+- [Contabo CLI Tool](https://github.com/contabo/cntb) - Official command-line interface
+
+The OpenAPI 3.0 specification can be downloaded from the main API documentation page at https://api.contabo.com/
 
 ## Contributing
 
